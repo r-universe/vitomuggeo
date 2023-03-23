@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cumSeg"]
+	path = cumSeg
+	url = https://github.com/cran/cumSeg
+	shallow = true
+	registered = true
+[submodule "logNormReg"]
+	path = logNormReg
+	url = https://github.com/cran/logNormReg
+	shallow = true
+	registered = true
+[submodule "quantregGrowth"]
+	path = quantregGrowth
+	url = https://github.com/cran/quantregGrowth
+	shallow = true
+	registered = true
+[submodule "segmented"]
+	path = segmented
+	url = https://github.com/cran/segmented
+	shallow = true
+	registered = true
