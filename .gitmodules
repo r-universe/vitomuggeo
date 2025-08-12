@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cumSeg"]
-	path = cumSeg
-	url = https://github.com/cran/cumSeg
 [submodule "logNormReg"]
 	path = logNormReg
 	url = https://github.com/cran/logNormReg
